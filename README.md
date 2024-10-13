@@ -1,2 +1,0 @@
-# SIENDO-TIERRA
-# SiendoTierra-copy
