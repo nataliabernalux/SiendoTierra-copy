@@ -684,16 +684,14 @@ padding-top: 4em;
         
     }
 
-    .hero-img {
-        background-image: url('img/hero5.png'); /* New background image for small screens */
-    }
+    
+    
 
+    
 	.hero__text {
         width: 100%;
     }
-    .hero__img {
-        width: 100%;
-    }
+    
 	.hero{
 		width: 100%;
 	}
